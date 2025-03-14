@@ -51,6 +51,19 @@ h4 {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   line-height: 1;
-  font-size: 25px;
+  font-size: 1.2rem;
+  margin: 20px;
 }
-.titoletti;
+
+#carrellata {
+  margin-top: 20px;
+}
+.titoletti {
+  margin: 20px;
+}
+#notebook {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
