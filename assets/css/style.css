@@ -2,7 +2,7 @@ body {
   text-align: center;
   color: #393d41;
   font-family: "Open Sans", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.65;
 }
 header {
@@ -12,6 +12,8 @@ header {
 
 #titolo {
   background-image: url("../images/banner.jpg");
+  background-position: center center;
+  background-size: 140%;
   padding: 30px 15px;
 }
 
@@ -52,14 +54,14 @@ h4 {
   font-weight: bold;
   line-height: 1;
   font-size: 1.2rem;
-  margin: 20px;
+  margin: 10px;
 }
 
 #carrellata {
-  margin-top: 20px;
+  margin-top: 40px;
 }
 .titoletti {
-  margin: 20px;
+  margin: 30px;
 }
 #notebook {
   width: 200px;
@@ -108,11 +110,17 @@ footer {
   background-color: #25a2c3;
   padding: 40px;
   color: white;
-  font-style: none;
 }
 
 footer h2 {
   font-size: 30px;
   font-style: bold;
   margin: bottom 10px;
+}
+
+div a {
+  text-decoration: none;
+}
+footer a {
+  color: white;
 }
