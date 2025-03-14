@@ -67,3 +67,37 @@ h4 {
   border-radius: 50%;
   object-fit: cover;
 }
+
+#banner {
+  background-color: #f04c2f;
+  color: white;
+  font-family: "Montserrat(bold)", sans-serif;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 1.1rem;
+}
+
+#banner h2 {
+  margin: 10px;
+  font-size: 30px;
+}
+#banner div {
+  margin: 10px;
+}
+
+.card {
+  margin: 25px;
+  padding: 10px;
+}
+.card img {
+  width: 350px;
+  height: 200px;
+}
+
+.card h5 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1;
+  margin: 10px;
+}
