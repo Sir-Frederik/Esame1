@@ -1,1 +1,24 @@
-/* Your styles here */
+body {
+  text-align: center;
+  color: #393d41;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+header {
+  padding: 30px 15px;
+  background: black;
+}
+
+#titolo {
+  background-image: url("../images/banner.jpg");
+  padding: 30px 15px;
+}
+
+h1 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 30px;
+}
