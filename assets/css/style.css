@@ -108,14 +108,15 @@ h4 {
 
 footer {
   background-color: #25a2c3;
-  padding: 40px;
+  padding: 50px;
+
   color: white;
 }
 
 footer h2 {
   font-size: 30px;
   font-style: bold;
-  margin: bottom 10px;
+  margin-bottom: 10px;
 }
 
 div a {
