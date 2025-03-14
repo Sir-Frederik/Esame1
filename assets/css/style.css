@@ -19,6 +19,38 @@ h1 {
   color: #25a2c3;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  line-height: 1.5;
-  font-size: 30px;
+  line-height: 1;
+  font-size: 35px;
 }
+
+#titolo div {
+  margin: 20px;
+}
+
+#titolo p {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+button {
+  padding: 4px 7px;
+  background-color: #f04c2f;
+  font-family: "Montserrat(bold)", sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1;
+  font-size: 25px;
+}
+.titoletti;
